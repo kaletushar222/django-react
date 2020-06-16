@@ -27,3 +27,9 @@ Frontend
 # npm start
 # remove logo.svg, app.test.js
 # create folder components 
+
+
+# npm install react-router-dom
+# npm i react-bootstrap
+# npm install --save bootstrap@latest
+# import '../node_modules/bootstrap/dist/css/bootstrap.min.css'; in index.js
