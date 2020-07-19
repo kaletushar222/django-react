@@ -1,4 +1,2 @@
-UI 
-1 : Added font awesome library
-2 : Added contact us page with map
-3 : Added footer
+Contact form added
+1 : Added contact form in contact us section
