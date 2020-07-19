@@ -1,4 +1,4 @@
-UI changes
-1 : Responsive about us section with cards
-2 : Overlay effect on carousel.
-2 : Increased hight of carousel.
+UI 
+1 : Added font awesome library
+2 : Added contact us page with map
+3 : Added footer
