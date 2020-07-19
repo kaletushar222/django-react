@@ -1,3 +1,4 @@
-Responsive ui
-1 : Removed description from images
-2 : Made responsive Carousel
+UI changes
+1 : Responsive about us section with cards
+2 : Overlay effect on carousel.
+2 : Increased hight of carousel.
