@@ -1,2 +1,4 @@
-Contact form added
-1 : Added contact form in contact us section
+Contact form api
+1 : Added modal for contact form enquiry
+2 : Added api to insert contact form details in database
+3 : Added validations for contact form using tostify toast messages.
